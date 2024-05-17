@@ -1,1 +1,1 @@
-__all__ = ["cv_graphics"]
+__all__ = ["cv_graphics", "feature_graphics.py"]
